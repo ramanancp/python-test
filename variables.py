@@ -16,3 +16,6 @@ x=0
 for x in range(1,11):
     x=x+i
     print(x)
+ 
+z=-10
+print("x-z is ", z)
